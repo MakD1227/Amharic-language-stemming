@@ -1,4 +1,5 @@
-@ email: mekuanentde@gmail.com 
+@ email: [mekuanentde@gmail.com ]
+@(https://github.com/MakD1227/Amharic-language-stemming/)
 # Amharic-language-stemming
 #Amharic language  text stemming for natural language processing(NLP) task
 #Rrequires hornmorpho package available @https://github.com/hltdi/HornMorpho.git
